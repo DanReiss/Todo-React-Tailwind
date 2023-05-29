@@ -1,5 +1,5 @@
 
-class Item{
+class Item {
     static lastId = 0;
 
     constructor(text){
